@@ -6,7 +6,7 @@
 ### Контакты
 - Минск
 - +375259685300
-- https://github.com/LaZy1220
+- 4elove4iska@gmail.com
 
 ## Навыки
 - Хорошие знания HTML5,CSS3,JS;
