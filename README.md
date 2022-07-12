@@ -10,7 +10,7 @@
 
 ## Навыки
 - Хорошие знания HTML5,CSS3,JS;
-- Базовые знания React/React-Route/React-Hoocks;
+- Базовые знания React/React-Routes/React-Hooks;
 - GIT.
 
 ## Образование
