@@ -1,38 +1,36 @@
-# Жерносек Максим Николаевич
-## Начинающий фронтенд-разработчик
-Коммуникабельность. Быстрая обучаемость, хорошо запоминаю и 
-усваиваю новую информацию, ответственно и дисциплинированно 
-отношусь к работе. Огромное желание расти и развиваться. Готов много 
-практиковаться
+# Zhernosek Maxim
+## SOFTWARE ENGINEER
+Sociability. Fast learnability, I remember and
+assimilate new information well, I take a responsible and disciplined
+attitude to work. A great desire to grow and develop. Ready
+to practice a lot
 
-### Контакты
-- Минск
+### Contacts
+- Minsk
 - +375259685300
 - 4elove4iska@gmail.com
 
-## Навыки
-- Иностранные языки: Английский - A2
-- Владею HTML5, CSS3, JS
-- JS фреймворк: React
-- CSS фреймоврк: Tailwind
-- Библиотека управления состоянием: Redux
-- Сборщик модулей: Webpack
-- Транспайлер: Babel
-- Cистема контроля версий: GIT
-## Опыт
-- Реализация взаимодействия с серверным API: fetch/axios
-- Последние стандарты ES6+
-- Разработка веб-системы с применением релевантных технологий , 
-платформ и фреймворков 
-- Использование CSS препроцессоров (SCSS)
-- Понимание особенностей кроссбраузености и адаптивности
-- Умение работать с системами контроля версий Git
-- Для работы с шаблонами использую: Marcy, Figma
-- Для разработки использую: VSCode
+## Skills
+- Foreign languages: English - B1;
+- Programming language: JavaScript;
+- Technically proficient in different frontend technologies:
+  HTML/CSS/JS advanced stack, React, Redux, redux-toolkit, react-hook-form, styled-components;
+- Backend technologies: basic knowledge Nodejs and Express;
+- Source control systems: Git,GitHub
+## Expirience
+- Implementation of interaction with the server API: fetch/axios
+- Latest ES6+ standards
+- Development of a web system using relevant technologies,
+platforms and frameworks 
+- Using CSS Preprocessors (SCSS)
+- Understanding the features of crossbrowth and adaptability
+- Ability to work with Git version control systems
+- To work with templates I use: Marcy, Figma
+- Integrated development environment: VSCode
 
-## Образование
-- Инженер по информационным технологиям
-2019-н.в. , Белорусский Государственный университет Информатики и 
-Радиоэлектроники
-- Техник-электроник (среднее специальное)
-2017, Гродненский Государственный университет им. Я.Купалы.
+## Education
+- Information Technology Engineer
+2019-present time, Belarusian State University of Informatics and
+Radio electronics
+- Electronics Technician (secondary special)
+2017, Grodno State University named Ya.Kupala.
