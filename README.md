@@ -1,6 +1,6 @@
 # Zhernosek Maxim
 ## SOFTWARE ENGINEER
-Sociability. Fast learnability, I remember and
+__Sociability_. Fast learnability, I remember and
 assimilate new information well, I take a responsible and disciplined
 attitude to work. A great desire to grow and develop. Ready
 to practice a lot
